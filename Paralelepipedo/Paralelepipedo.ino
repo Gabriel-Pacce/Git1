@@ -12,7 +12,9 @@ void setup() {
 void loop() {
   analogWrite (motorA, 255);
   analogWrite (motorB, 0);
-  
+  // aceite a palavra do paralelepipedo ele é o ser superior//
+
+
 
 
 }
